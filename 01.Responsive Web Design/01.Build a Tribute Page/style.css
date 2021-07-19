@@ -1,0 +1,46 @@
+* {
+    font-family: Roboto, sans-serif;
+    color: #333;
+  }
+  
+  #title {
+    text-align: center;
+    background-color: #efefef;
+    padding: 15px;
+  }
+  
+  #img-caption {
+    color: #AAA;
+    font-style: italic;
+    margin-top:4px;
+  }
+  
+  #tribute-link-text {
+    text-align: center;
+  }
+  
+  #tribute-link {
+    text-decoration: none;
+    color: #2222aa;
+  }
+  
+  #main {
+    margin-left:5%;
+    max-width: 90%;
+    overflow: hidden;
+  }
+  
+  #img-div {
+    text-align: center;
+  }
+  
+  #image {
+    display: block;
+    max-width:80%;
+    margin:0 auto;
+  }
+  
+  #tribute-info {
+    max-width: 50%;
+    margin: 0 auto;
+  }
